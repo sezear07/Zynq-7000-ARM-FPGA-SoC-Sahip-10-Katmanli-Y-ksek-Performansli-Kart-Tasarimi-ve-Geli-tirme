@@ -38,6 +38,11 @@ DEVRE SEMATİGİ-3  USB 2.0 OTG
 DEVRE SEMATİGİ-3  JTAG
 ![JTAG](https://github.com/user-attachments/assets/ef7a5043-e218-47af-a938-7a7c1106059b)
 
+DEVRE SEMATİGİ-3  DDR3L Bellek
+![DDR3L Modules](https://github.com/user-attachments/assets/977eeaa4-3252-435e-8f62-79048204b86b)
+
+DEVRE SEMATİGİ-3  PMODs and General IO
+![OLED DISPLAY   SENSOR](https://github.com/user-attachments/assets/414f427a-fc7c-4f19-bf5c-7aec85fa3230)
 
 
 
