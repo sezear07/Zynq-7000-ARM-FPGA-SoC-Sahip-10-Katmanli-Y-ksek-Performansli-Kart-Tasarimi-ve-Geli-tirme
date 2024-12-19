@@ -26,7 +26,7 @@ GUC VE KORUMA
 
 DEVRE SEMATİGİ-2  Ethernet & SD Card
 ![Ethernet   SD Card](https://github.com/user-attachments/assets/a1a3a2db-7475-4f93-975e-72b720bb12dd)
-Ethernet & SD Card
+
 DEVRE SEMATİGİ-3  HDMI&VGA
 ![HDMI VGA](https://github.com/user-attachments/assets/6f5388a4-6b2d-439d-ad89-c51df0ccc6be)
 
