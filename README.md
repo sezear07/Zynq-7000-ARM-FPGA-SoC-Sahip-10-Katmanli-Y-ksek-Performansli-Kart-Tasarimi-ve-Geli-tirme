@@ -20,7 +20,7 @@ Kartin Ozellikleri:
   
   PS ve PL I/O genişletme (FMC, Pmod, XADC)
 
-DEVRE SEMATİGİ-1
+DEVRE SEMATİGİ-1  GUC VE KORUMA
 ![POWER   PROTECTION](https://github.com/user-attachments/assets/a4f3e07e-40e3-4e2b-8b63-37bb307e8d8a)
 GUC VE KORUMA
 
