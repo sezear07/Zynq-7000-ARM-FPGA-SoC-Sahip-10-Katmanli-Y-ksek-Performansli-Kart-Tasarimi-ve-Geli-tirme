@@ -23,6 +23,7 @@ Kartin Ozellikleri:
 DEVRE SEMATİGİ-1
 ![POWER   PROTECTION](https://github.com/user-attachments/assets/a4f3e07e-40e3-4e2b-8b63-37bb307e8d8a)
 GUC VE KORUMA
+
 DEVRE SEMATİGİ-2
 ![Ethernet   SD Card](https://github.com/user-attachments/assets/a1a3a2db-7475-4f93-975e-72b720bb12dd)
 Ethernet & SD Card
