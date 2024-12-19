@@ -22,12 +22,23 @@ Kartin Ozellikleri:
 
 DEVRE SEMATİGİ-1  GUC VE KORUMA
 ![POWER   PROTECTION](https://github.com/user-attachments/assets/a4f3e07e-40e3-4e2b-8b63-37bb307e8d8a)
-GUC VE KORUMA
 
 DEVRE SEMATİGİ-2  Ethernet & SD Card
 ![Ethernet   SD Card](https://github.com/user-attachments/assets/a1a3a2db-7475-4f93-975e-72b720bb12dd)
 
 DEVRE SEMATİGİ-3  HDMI&VGA
 ![HDMI VGA](https://github.com/user-attachments/assets/6f5388a4-6b2d-439d-ad89-c51df0ccc6be)
+
+DEVRE SEMATİGİ-3  SES
+![Sound](https://github.com/user-attachments/assets/52b75210-6652-4628-a19a-0232823cdc6c)
+
+DEVRE SEMATİGİ-3  USB 2.0 OTG
+![USB 2 0 (OTG)](https://github.com/user-attachments/assets/5113450b-ac46-4092-855e-0ad86785df28)
+
+DEVRE SEMATİGİ-3  JTAG
+![JTAG](https://github.com/user-attachments/assets/ef7a5043-e218-47af-a938-7a7c1106059b)
+
+
+
 
 
